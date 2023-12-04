@@ -4,9 +4,7 @@ declare(strict_types=1);
 
 namespace Manzadey\LaravelOrchidHelpers\Orchid\Helpers\Sights;
 
-use Illuminate\Database\Eloquent\Model;
 use Orchid\Screen\Fields\Label;
-use Orchid\Screen\Layouts\Persona;
 use Orchid\Screen\Sight;
 
 class ForeignSight
